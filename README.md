@@ -1,6 +1,6 @@
 # PyTorch Study Repository!
 
-This repository is designed to help me learn PyTorch from the ground up, with hands-on examples and progressive tutorials. Mostly from freecodecamp!
+This repository is designed to help me learn PyTorch from the ground up, with hands-on examples and progressive tutorials. All from freecodecamp and the PyTorch docs!
 
 ## 🚀 Quick Start
 
